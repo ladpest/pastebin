@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.env.windows": {
+    "MY_PROJECT_HISTORY": "${workspaceFolder}\\.vscode\\.ps_history"
+  }
+}
