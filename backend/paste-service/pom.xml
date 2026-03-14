@@ -13,6 +13,7 @@
 	<artifactId>paste-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>paste-service</name>
+	<packaging>jar</packaging>
 
 	<properties>
 		<java.version>21</java.version>
