@@ -3,5 +3,5 @@
     "MY_PROJECT_HISTORY": "${workspaceFolder}\\.vscode\\.ps_history"
   },
   "java.compile.nullAnalysis.mode": "automatic",
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "interactive",
 }
